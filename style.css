@@ -163,6 +163,9 @@ body::-webkit-scrollbar-thumb{
         letter-spacing: 1px;
         padding: 45px 0px;
     }
+    #page1 {
+        height: 77vh;
+    }
     .container{
         display: flex;
         align-items: center;
@@ -183,8 +186,8 @@ body::-webkit-scrollbar-thumb{
     }
     #right img {
         position: absolute;
-        top: 55vw;
-        width: 80vw;
-        height: 50vh;
+        top: 62vw;
+        width: 115vw;
+        height: 48vh;
     }
 }
