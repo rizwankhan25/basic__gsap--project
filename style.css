@@ -1,13 +1,33 @@
 @font-face {
-    font-family: Gilroy;
-    src: url();
+    font-family: Gilroy1;
+    src: url(./Fonts/Gilroy-Black.otf);
+}
+@font-face {
+    font-family: Gilroy2;
+    src: url(./Fonts/Gilroy-Bold.otf);
+}
+@font-face {
+    font-family: Gilroy3;
+    src: url(./Fonts/Gilroy-Extrabold.otf);
+}
+@font-face {
+    font-family: Gilroy4;
+    src: url(./Fonts/Gilroy-Heavy.otf);
+}
+@font-face {
+    font-family: Gilroy5;
+    src: url(./Fonts/Gilroy-Medium.otf);
+}
+@font-face {
+    font-family: Gilroy6;
+    src: url(./Fonts/Gilroy-Regular.otf);
 }
 *{
 padding: 0%;
 margin: 0%;
 box-sizing: border-box;
 color: #fff;
-font-family: "Gilroy";
+font-family: "Gilroy5";
 }
 html,body{
 width: 100%;
